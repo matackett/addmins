@@ -1,3 +1,3 @@
 # addmins
 
-An R package containing addins that are useful for Mine's workflow.
+An R package containing addins for RStudio. Forked from mine-cetinkaya-rundel/addmins

@@ -7,6 +7,6 @@
 use_daytime_theme <- function(){
 
   # Set default theme
-  rstudioapi::applyTheme("Flat White {rsthemes}")
+  rstudioapi::applyTheme("Solarized Light {rsthemes}")
 
 }
